@@ -22,32 +22,32 @@ iv.	Allocating a contingency budget for unforeseen expenses
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
-Waterfall - each phase of the project is completed in a sequence before moving on to the next. It's suitable for projects with well-defined requirements and minimal changes.
-Advantage –
-Easy to Understand - it follows a linear sequential process that makes it easy for the team to understand the project requirements.
-Predictability - the project’s scope, budget, and timeline are determined at the beginning of the project.
-Disadvantage –
- Lack of Flexibility - it is rigid and lacks flexibility, making it challenging to make changes in the middle of the project.
-Inefficient - each phase must be completed before moving on to the next one, which can cause delays in the project’s delivery.
-Agile: An iterative approach that emphasizes flexibility, customer collaboration, and continuous delivery. It's ideal for projects with evolving requirements and uncertain outcomes.
-Advantage 
-Flexibility - allows the project team to make changes and adjustments to the project in the middle of the project.
-Efficiency - allows the project team to deliver working products in small, incremental stages.
-Disadvantage 
-Can be challenging to manage due to its less structured nature, may lead to scope creep, requires significant client involvement.
+Waterfall - each phase of the project is completed in a sequence before moving on to the next. It's suitable for projects with well-defined requirements and minimal changes.  
+Advantage –  
+Easy to Understand - it follows a linear sequential process that makes it easy for the team to understand the project requirements.  
+Predictability - the project’s scope, budget, and timeline are determined at the beginning of the project.  
+Disadvantage –  
+Lack of Flexibility - it is rigid and lacks flexibility, making it challenging to make changes in the middle of the project.  
+Inefficient - each phase must be completed before moving on to the next one, which can cause delays in the project’s delivery.  
+Agile: An iterative approach that emphasizes flexibility, customer collaboration, and continuous delivery. It's ideal for projects with evolving requirements and uncertain outcomes.  
+Advantage  
+Flexibility - allows the project team to make changes and adjustments to the project in the middle of the project.  
+Efficiency - allows the project team to deliver working products in small, incremental stages.  
+Disadvantage  
+Can be challenging to manage due to its less structured nature, may lead to scope creep, requires significant client involvement.  
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
-Waterfall is suitable for projects with well-defined requirements and minimal changes e.g. Developing software for a government regulatory body with fixed requirements that are unlikely to change once defined.
+Waterfall is suitable for projects with well-defined requirements and minimal changes e.g. Developing software for a government regulatory body with fixed requirements that are unlikely to change once defined.  
 Agile is ideal for projects with evolving requirements and uncertain outcomes e.g. Building a consumer-facing mobile app where user feedback may drive changes and frequent updates are needed
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
-Methods for ensuring quality assurance include:
-i.	Regular code reviews and pair programming
-ii.	Automated testing (unit tests, integration tests, end-to-end tests)
-iii.	Continuous integration/continuous deployment (CI/CD) practices
-iv.	Clear communication throughout the software development
+Methods for ensuring quality assurance include:  
+i.	Regular code reviews and pair programming  
+ii.	Automated testing (unit tests, integration tests, end-to-end tests)  
+iii.	Continuous integration/continuous deployment (CI/CD) practices  
+iv.	Clear communication throughout the software development  
 Maintaining high standards ensures that the software is reliable, secure, and meets user expectations, reducing the risk of costly post-launch issues and maintaining customer trust.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
@@ -61,13 +61,13 @@ A well-developed project schedule identifies the tasks needed to complete the pr
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-Software idea – Personalized AI tutor
-Core issues;
-Accessibility to Quality Education:
-i.	Students in remote or underserved areas often lack access to quality teachers and educational resources.
-ii.	Tutoring can be expensive, making it inaccessible for many.
-Tailored Learning Experiences:
-i.	Traditional education often fails to cater to individual learning styles and paces.
+Software idea – Personalized AI tutor  
+Core issues;  
+Accessibility to Quality Education:  
+i.	Students in remote or underserved areas often lack access to quality teachers and educational resources.  
+ii.	Tutoring can be expensive, making it inaccessible for many.  
+Tailored Learning Experiences:  
+i.	Traditional education often fails to cater to individual learning styles and paces.  
 ii.	Students may struggle to identify and correct misconceptions promptly.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
@@ -80,7 +80,7 @@ The Personalized AI Tutor is a software solution that offers personalized, on-de
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
-i.	Personalized Learning Paths - The software tailors learning experiences to each student's individual needs, strengths and weaknesses.
+i.	Personalized Learning Paths - The software tailors learning experiences to each student's individual needs, strengths and weaknesses.  
 ii.	Real-time Feedback and Assessment - Students receive immediate feedback on their work, helping them identify and correct mistakes promptly.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
@@ -89,7 +89,7 @@ The global Artificial Intelligence in Personalized Learning and Education Techno
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
-Positioning 
-Identifying Target Market - Market trends can help pinpoint specific demographics or industries that are most likely to benefit from the software. For example, if there's a growing trend of remote learning, the software could be specifically positioned for online students.
-Development
+Positioning  
+Identifying Target Market - Market trends can help pinpoint specific demographics or industries that are most likely to benefit from the software. For example, if there's a growing trend of remote learning, the software could be specifically positioned for online students.  
+Development  
 Improving User Experience - Understanding user preferences and behaviours can help optimize the user interface and user experience. This can lead to higher user satisfaction and retention
